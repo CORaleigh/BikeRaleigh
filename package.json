@@ -27,7 +27,7 @@
     "@ionic-native/status-bar": "^5.22.0",
     "@ionic/angular": "^4.11.10",
     "@types/arcgis-js-api": "^4.14.0",
-    "cordova-android": "^7.1.4",
+    "cordova-android": "^11.0.0",
     "cordova-ios": "5.1.1",
     "cordova-plugin-app-update": "^2.0.2",
     "cordova-plugin-appversion": "^1.0.0",
